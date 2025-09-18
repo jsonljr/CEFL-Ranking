@@ -1,1 +1,1 @@
-CEFL-Ranking:Re-evaluation of Communication-Efficient FL Methods
+Re-evaluation of Communication-Efficient FL Methods
